@@ -13,4 +13,7 @@ By looking at all the visualizations:
 
 Airline needs to review its services, policy, and pricing to improve the performance of the business.
 
+## Dashboard View
+
 [1]: https://www.mavenanalytics.io/data-playground  "Data"
+![Maven Dashboard (1)](https://user-images.githubusercontent.com/105152670/170930659-d1d96f35-7ef9-4d40-aa65-3713bb9211a7.jpg)
